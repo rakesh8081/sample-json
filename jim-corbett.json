@@ -1,0 +1,122 @@
+[
+    {
+        "Date": "09\/24\/2022",
+        "Description": "Safari Permit",
+        "Category": "General",
+        "Cost": 1080,
+        "Currency": "INR",
+        "contri": {
+            "Rakesh Verma": 720,
+            "Triveni Singh Rathore": -360,
+            "Aji": -360
+        }
+    },
+    {
+        "Date": "10\/16\/2022",
+        "Description": "Hotel Rent",
+        "Category": "Rent",
+        "Cost": 54633.6,
+        "Currency": "INR",
+        "contri": {
+            "Rakesh Verma": 31250.42,
+            "Triveni Singh Rathore": -15625.21,
+            "Aji": -15625.21
+        }
+    },
+    {
+        "Date": "10\/22\/2022",
+        "Description": "Buffet Dinner",
+        "Category": "Dining out",
+        "Cost": 6903,
+        "Currency": "INR",
+        "contri": {
+            "Rakesh Verma": 4252.25,
+            "Triveni Singh Rathore": -2126.12,
+            "Aji": -2126.13
+        }
+    },
+    {
+        "Date": "10\/22\/2022",
+        "Description": "Alcohol",
+        "Category": "Liquor",
+        "Cost": 2720,
+        "Currency": "INR",
+        "contri": {
+            "Rakesh Verma": 1680,
+            "Triveni Singh Rathore": -840,
+            "Aji": -840
+        }
+    },
+    {
+        "Date": "10\/23\/2022",
+        "Description": "Safari Gypsy",
+        "Category": "General",
+        "Cost": 3300,
+        "Currency": "INR",
+        "contri": {
+            "Rakesh Verma": 1700,
+            "Triveni Singh Rathore": -600,
+            "Aji": -1100
+        }
+    },
+    {
+        "Date": "10\/23\/2022",
+        "Description": "Dinner Nest Cafe",
+        "Category": "Dining out",
+        "Cost": 2461,
+        "Currency": "INR",
+        "contri": {
+            "Rakesh Verma": 1640.67,
+            "Triveni Singh Rathore": -820.33,
+            "Aji": -820.34
+        }
+    },
+    {
+        "Date": "10\/24\/2022",
+        "Description": "Vatika Lunch",
+        "Category": "Dining out",
+        "Cost": 3378,
+        "Currency": "INR",
+        "contri": {
+            "Rakesh Verma": 2252,
+            "Triveni Singh Rathore": -1126,
+            "Aji": -1126
+        }
+    },
+    {
+        "Date": "10\/24\/2022",
+        "Description": "Vatika Dinner Party",
+        "Category": "Dining out",
+        "Cost": 2778,
+        "Currency": "INR",
+        "contri": {
+            "Rakesh Verma": -926,
+            "Triveni Singh Rathore": -926,
+            "Aji": 1852
+        }
+    },
+    {
+        "Date": "10\/25\/2022",
+        "Description": "Hotel Order",
+        "Category": "Hotel",
+        "Cost": 764,
+        "Currency": "INR",
+        "contri": {
+            "Rakesh Verma": 764,
+            "Triveni Singh Rathore": -764,
+            "Aji": 0
+        }
+    },
+    {
+        "Date": "10\/25\/2022",
+        "Description": "Museum Ticket",
+        "Category": "General",
+        "Cost": 700,
+        "Currency": "INR",
+        "contri": {
+            "Rakesh Verma": 400,
+            "Triveni Singh Rathore": -200,
+            "Aji": -200
+        }
+    }
+]
