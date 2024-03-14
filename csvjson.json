@@ -1,0 +1,302 @@
+[
+  {
+    "Instrument": "BANKINDIA",
+    "Qty.": 13,
+    "Avg. cost": 73.3,
+    "LTP": 131.9,
+    "Cur. val": 1714.7,
+    "P&L": 761.8,
+    "Net chg.": 79.95,
+    "Day chg.": 2.69
+  },
+  {
+    "Instrument": "BHEL",
+    "Qty.": 20,
+    "Avg. cost": 71,
+    "LTP": 227.9,
+    "Cur. val": 4558,
+    "P&L": 3138,
+    "Net chg.": 220.99,
+    "Day chg.": 1.11
+  },
+  {
+    "Instrument": "BIOCON",
+    "Qty.": 25,
+    "Avg. cost": 220.65,
+    "LTP": 260.05,
+    "Cur. val": 6501.25,
+    "P&L": 985,
+    "Net chg.": 17.86,
+    "Day chg.": 2.75
+  },
+  {
+    "Instrument": "COALINDIA",
+    "Qty.": 10,
+    "Avg. cost": 210.35,
+    "LTP": 423.25,
+    "Cur. val": 4232.5,
+    "P&L": 2129,
+    "Net chg.": 101.21,
+    "Day chg.": 1.49
+  },
+  {
+    "Instrument": "DLF",
+    "Qty.": 40,
+    "Avg. cost": 445.3,
+    "LTP": 835.5,
+    "Cur. val": 33420,
+    "P&L": 15608,
+    "Net chg.": 87.63,
+    "Day chg.": 0.64
+  },
+  {
+    "Instrument": "DOLLAR",
+    "Qty.": 15,
+    "Avg. cost": 371.82,
+    "LTP": 475.5,
+    "Cur. val": 7132.5,
+    "P&L": 1555.2,
+    "Net chg.": 27.88,
+    "Day chg.": 2.64
+  },
+  {
+    "Instrument": "EASEMYTRIP",
+    "Qty.": 50,
+    "Avg. cost": 42.93,
+    "LTP": 44.55,
+    "Cur. val": 2227.5,
+    "P&L": 81.25,
+    "Net chg.": 3.79,
+    "Day chg.": 6.96
+  },
+  {
+    "Instrument": "EIDPARRY",
+    "Qty.": 10,
+    "Avg. cost": 507.3,
+    "LTP": 561.4,
+    "Cur. val": 5614,
+    "P&L": 541,
+    "Net chg.": 10.66,
+    "Day chg.": 1.32
+  },
+  {
+    "Instrument": "EKC",
+    "Qty.": 10,
+    "Avg. cost": 87.35,
+    "LTP": 127.5,
+    "Cur. val": 1275,
+    "P&L": 401.5,
+    "Net chg.": 45.96,
+    "Day chg.": 8.88
+  },
+  {
+    "Instrument": "EVEXIA",
+    "Qty.": 500,
+    "Avg. cost": 2.79,
+    "LTP": 2.08,
+    "Cur. val": 1040,
+    "P&L": -355,
+    "Net chg.": -25.45,
+    "Day chg.": 1.96
+  },
+  {
+    "Instrument": "EXIDEIND",
+    "Qty.": 40,
+    "Avg. cost": 227.4,
+    "LTP": 303.7,
+    "Cur. val": 12148,
+    "P&L": 3052,
+    "Net chg.": 33.55,
+    "Day chg.": 1
+  },
+  {
+    "Instrument": "HSCL",
+    "Qty.": 90,
+    "Avg. cost": 207.51,
+    "LTP": 301.5,
+    "Cur. val": 27135,
+    "P&L": 8459,
+    "Net chg.": 45.29,
+    "Day chg.": 5
+  },
+  {
+    "Instrument": "IEX",
+    "Qty.": 50,
+    "Avg. cost": 133.4,
+    "LTP": 136.6,
+    "Cur. val": 6830,
+    "P&L": 160,
+    "Net chg.": 2.4,
+    "Day chg.": 2.63
+  },
+  {
+    "Instrument": "JINDALPHOT",
+    "Qty.": 20,
+    "Avg. cost": 337,
+    "LTP": 572.8,
+    "Cur. val": 11456,
+    "P&L": 4716,
+    "Net chg.": 69.97,
+    "Day chg.": 2.98
+  },
+  {
+    "Instrument": "MISHTANN",
+    "Qty.": 350,
+    "Avg. cost": 7.24,
+    "LTP": 18.36,
+    "Cur. val": 6426,
+    "P&L": 3892,
+    "Net chg.": 153.59,
+    "Day chg.": 12.57
+  },
+  {
+    "Instrument": "MOREPENLAB",
+    "Qty.": 300,
+    "Avg. cost": 27.2,
+    "LTP": 42.55,
+    "Cur. val": 12765,
+    "P&L": 4605,
+    "Net chg.": 56.43,
+    "Day chg.": 7.94
+  },
+  {
+    "Instrument": "NATIONALUM",
+    "Qty.": 50,
+    "Avg. cost": 82.5,
+    "LTP": 142.75,
+    "Cur. val": 7137.5,
+    "P&L": 3012.5,
+    "Net chg.": 73.03,
+    "Day chg.": 4.85
+  },
+  {
+    "Instrument": "NTPC",
+    "Qty.": 100,
+    "Avg. cost": 171.5,
+    "LTP": 319.8,
+    "Cur. val": 31980,
+    "P&L": 14830,
+    "Net chg.": 86.47,
+    "Day chg.": -0.84
+  },
+  {
+    "Instrument": "RKFORGE",
+    "Qty.": 15,
+    "Avg. cost": 340.84,
+    "LTP": 623.75,
+    "Cur. val": 9356.25,
+    "P&L": 4243.65,
+    "Net chg.": 83,
+    "Day chg.": -0.49
+  },
+  {
+    "Instrument": "SAIL",
+    "Qty.": 100,
+    "Avg. cost": 86.3,
+    "LTP": 122.45,
+    "Cur. val": 12245,
+    "P&L": 3615,
+    "Net chg.": 41.89,
+    "Day chg.": 3.07
+  },
+  {
+    "Instrument": "SEACOAST",
+    "Qty.": 2000,
+    "Avg. cost": 4.19,
+    "LTP": 4.19,
+    "Cur. val": 8380,
+    "P&L": 0,
+    "Net chg.": 0,
+    "Day chg.": -1.87
+  },
+  {
+    "Instrument": "SGBMAY29I-GB",
+    "Qty.": 11,
+    "Avg. cost": 4727,
+    "LTP": 6320,
+    "Cur. val": 69520,
+    "P&L": 17523,
+    "Net chg.": 33.7,
+    "Day chg.": 0.21
+  },
+  {
+    "Instrument": "SYSCHEM",
+    "Qty.": 100,
+    "Avg. cost": 49,
+    "LTP": 56.45,
+    "Cur. val": 5645,
+    "P&L": 745,
+    "Net chg.": 15.2,
+    "Day chg.": 2.8
+  },
+  {
+    "Instrument": "TATAMOTORS",
+    "Qty.": 25,
+    "Avg. cost": 533.4,
+    "LTP": 967.4,
+    "Cur. val": 24185,
+    "P&L": 10850,
+    "Net chg.": 81.36,
+    "Day chg.": -0.6
+  },
+  {
+    "Instrument": "TATAPOWER",
+    "Qty.": 25,
+    "Avg. cost": 203,
+    "LTP": 382.8,
+    "Cur. val": 9570,
+    "P&L": 4495,
+    "Net chg.": 88.57,
+    "Day chg.": 2.92
+  },
+  {
+    "Instrument": "TIIL",
+    "Qty.": 5,
+    "Avg. cost": 1548.45,
+    "LTP": 1606.2,
+    "Cur. val": 8031,
+    "P&L": 288.75,
+    "Net chg.": 3.73,
+    "Day chg.": 1.29
+  },
+  {
+    "Instrument": "UNIQUEO",
+    "Qty.": 100,
+    "Avg. cost": 36.06,
+    "LTP": 105.8,
+    "Cur. val": 10580,
+    "P&L": 6974,
+    "Net chg.": 193.4,
+    "Day chg.": 2.92
+  },
+  {
+    "Instrument": "WIPRO",
+    "Qty.": 25,
+    "Avg. cost": 420.11,
+    "LTP": 511.25,
+    "Cur. val": 12781.25,
+    "P&L": 2278.47,
+    "Net chg.": 21.69,
+    "Day chg.": 1.36
+  },
+  {
+    "Instrument": "ZEEL",
+    "Qty.": 50,
+    "Avg. cost": 241.4,
+    "LTP": 149.5,
+    "Cur. val": 7475,
+    "P&L": -4595,
+    "Net chg.": -38.07,
+    "Day chg.": 2.93
+  },
+  {
+    "Instrument": "ZENTEC",
+    "Qty.": 30,
+    "Avg. cost": 435.35,
+    "LTP": 852.5,
+    "Cur. val": 25575,
+    "P&L": 12514.5,
+    "Net chg.": 95.82,
+    "Day chg.": -0.09
+  }
+]
